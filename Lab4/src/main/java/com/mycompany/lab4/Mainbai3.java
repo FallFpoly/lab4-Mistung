@@ -1,10 +1,11 @@
 
 package com.mycompany.lab4;
 
+
 public class Mainbai3 {
     
     public static void main(String[] args) {
-        
+       
         SanPham sp1 = new SanPham();
         SanPham sp2 = new SanPham();
 

@@ -4,14 +4,14 @@ package com.mycompany.lab4;
   import java.util.Scanner;
 
 public class bai2 {
-
+  
 class SanPham {
     private String tenSp;
     private double donGia;
     private double giamGia;
 
     public void nhap() {
-        Scanner sc = new Scanner(System.in);
+      Scanner sc = new Scanner(System.in);
         System.out.print("Nhập tên sản phẩm: ");
         tenSp = sc.nextLine();
 
